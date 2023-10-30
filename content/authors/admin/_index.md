@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marcos Gaspar Montenegro Calvimonte
+title: Marcos Gaspar Montenegro
 
 # Name pronunciation (optional)
 name_pronunciation: 
