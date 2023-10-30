@@ -1,60 +1,65 @@
 ---
 # Display name
-title: 吳健雄
+title: Marcos Gaspar Montenegro Calvimonte
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marcos Gaspar
+last_name: Montenegro Calvimonte
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📈
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Glasgow
+    url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student at University of Glasgow. I am currently doing an internship at the Bundesbank.
+
+Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - (International) Macroeconomics
+  - Behavioural Macroeconomics
+  - DSGE modelling
+  - Expectation formation
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: University of Glasgow
+      year: expected 2024
+    - course: MRes in Economics 
+      institution: University of Glasgow
+      year: 2020
+    - course: Overseas Exchange Student
+      institution: University of Bologna
+      year: 2016-2017  
+    - course: Licenciate in Economics
+      institution: University of Cordoba, Argentina
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Julia
         description: ''
         percent: 80
-        icon: python
+        icon: julia
         icon_pack: fab
       - name: Data Science
         description: ''
