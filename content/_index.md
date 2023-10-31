@@ -1,14 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Marcos Gaspar Montenegro Calvimonte'
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Wowchemy demo site
+    demo: false # Only display this section in the Wowchemy demo site
     content:
-      title: Hugo Academic Theme
+      title: 
       image:
         filename: hero-academic.png
       cta:
@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
