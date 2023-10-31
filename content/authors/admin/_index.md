@@ -124,6 +124,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+end
 
 I am a PhD student at University of Glasgow. I am currently doing an internship at the Bundesbank.
 {style="text-align: justify;"}
