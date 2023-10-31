@@ -6,7 +6,7 @@ title: Marcos Gaspar Montenegro Calvimonte
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Marcos Gaspar
+first_name: Marcos 
 last_name: Montenegro Calvimonte
 
 # Status emoji
