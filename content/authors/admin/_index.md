@@ -24,10 +24,6 @@ organizations:
   - name: University of Glasgow
     url: https://www.gla.ac.uk/
 
-# Short bio (displayed in user profile at end of posts)
-bio: Welcome!
-
-
 
 # Interests to show in About widget
 interests:
