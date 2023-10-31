@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marcos Gaspar Montenegro
+title: Marcos Gaspar Montenegro Calvimonte
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -48,7 +48,7 @@ education:
       institution: University of Bologna
       year: 2016-2017  
     - course: Licenciate in Economics
-      institution: University of Cordoba, Argentina
+      institution: University of Córdoba, Argentina
       year: 2017
 
 # Skills
@@ -71,7 +71,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
