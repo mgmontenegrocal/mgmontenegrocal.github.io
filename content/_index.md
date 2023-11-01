@@ -126,7 +126,7 @@ sections:
       columns: '2'
   - block: collection
     id: publication
-    content:
+    content: EffectsofDE
       title: Working papers
       subtitle: ''
       text: ''
