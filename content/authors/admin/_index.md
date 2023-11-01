@@ -29,10 +29,10 @@ bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. Curre
 
 # Interests to show in About widget
 interests:
-  * (International) Macroeconomics
-  * Behavioural Macroeconomics
-  * DSGE modelling
-  * Expectation formation
+  - (International) Macroeconomics
+  - Behavioural Macroeconomics
+  - DSGE modelling
+  - Expectation formation
 # Education to show in About widget
 education:
   courses:
