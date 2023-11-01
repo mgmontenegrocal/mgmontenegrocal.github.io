@@ -7,10 +7,7 @@ authors:
 tags: []
 categories: []
 projects: []
-date: 
-lastMod: 
-image:
-  caption: 
-  focal_point: 
+ 
+
 ---
 ---
