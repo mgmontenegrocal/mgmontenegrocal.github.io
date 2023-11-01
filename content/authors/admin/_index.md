@@ -11,7 +11,7 @@ last_name: Montenegro Calvimonte
 
 # Status emoji
 status:
-  icon: 📈
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,10 +29,10 @@ bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. Curre
 
 # Interests to show in About widget
 interests:
-  - (International) Macroeconomics
-  - Behavioural Macroeconomics
-  - DSGE modelling
-  - Expectation formation
+  * (International) Macroeconomics
+  * Behavioural Macroeconomics
+  * DSGE modelling
+  * Expectation formation
 # Education to show in About widget
 education:
   courses:
