@@ -45,8 +45,8 @@ education:
     - course: Overseas Exchange Student
       institution: University of Bologna
       year: 2016-2017  
-    - course: Licenciate in Economics
-      institution: University of Córdoba, Argentina
+    - course: BSc in Economics
+      institution: Universidad Nacional de Córdoba, Argentina
       year: 2017
 
 # Skills

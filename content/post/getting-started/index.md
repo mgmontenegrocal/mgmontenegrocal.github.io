@@ -29,7 +29,6 @@ featured: false
 
 authors:
   - admin
-  - Marcos Gaspar Montenegro Calvimonte
 
 tags:
   - Academic
