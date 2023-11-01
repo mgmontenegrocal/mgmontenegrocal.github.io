@@ -40,10 +40,6 @@ sections:
     id: about
     content:
       title: Welcome!
-
-      I am an Economics Ph.D. Candidate at University of Glasgow.
-
-      I am currently doing an internship in the Bundesbank, after this, I will start looking for positions.
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills

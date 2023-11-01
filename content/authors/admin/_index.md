@@ -24,6 +24,8 @@ organizations:
   - name: University of Glasgow
     url: https://www.gla.ac.uk/
 
+bio: ​​I am an Economist Ph.D. candidate at the University of Glasgow. Currently, I am doing an internship at the Monetary Policy Division at the Deutsche Bundesbank.
+
 
 # Interests to show in About widget
 interests:
