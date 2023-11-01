@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "The Effects of Diagnostic Expectations in a Small Open Economy"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,31 +17,34 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Diagnostic expectations are the most recent deviation from the mainstream rationality hypothesis in macroeconomics and finance literature. In this paper, I explore the implications of incorporating representativeness, in the form of diag- nostic expectations, into a Small Open Economy Model à la Justiniano and Preston (2010). The main results show that a small open economy populated with diagnos- tic agents is characterised to be broadly more volatile than its rational counterpart. Moreover, the magnitude of such results depends not only on the degree of beliefs distortion, but also on the parameterisation of the model. Finally, persistence mechanisms do help in propagating and intensifying the amplification effects of diagnostic expectations when different shocks hit the economy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- Diagnostic Expectations
+- Open Economy Model
+- Exchange Rate
+
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+- name: 
+  url: 
+url_pdf: 
+url_code: 
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 
   focal_point: ""
   preview_only: false
 
@@ -50,15 +53,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
