@@ -234,7 +234,7 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur a dipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: m.montenegro-calvimonte.1@research.gla.ac.uk
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
