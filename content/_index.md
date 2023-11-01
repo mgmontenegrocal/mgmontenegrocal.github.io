@@ -125,7 +125,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: publication
     content:
       title: Working papers
       subtitle: ''
