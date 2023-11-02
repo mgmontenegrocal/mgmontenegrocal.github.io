@@ -10,13 +10,14 @@ main:
   - name: Research
     url: '#publication'
     weight: 20
-  - name: Teaching
-    url: '#talks'
-    weight: 30
-
-
-# Link to a PDF of your resume/CV from the menu.
+    # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/CV_MGMC.pdf
+    weight: 30
+  - name: Teaching
+    url: '#talks'
     weight: 40
+
+
+
