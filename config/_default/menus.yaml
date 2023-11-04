@@ -16,7 +16,7 @@ main:
     url: uploads/CV_MGMC.pdf
     weight: 30
   - name: Teaching
-    url: '#experience'
+    url: '#Teach'
     weight: 40
 
 
