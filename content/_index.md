@@ -96,7 +96,7 @@ sections:
         - title: Intermediate Microeconomics
           title_url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
           company: University of Glasgow
-          company_url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
+          company_url: ''
           #company_logo: org-gc
           #location: California
           date_start: '2022-09-01'
