@@ -99,7 +99,7 @@ sections:
           #company_logo: org-gc
           #location: California
           date_start: '2022-09-01'
-          date_end: 'Present'
+          date_end: ''
           description: Graduate Teaching Assistant for
               
         - title: Professor of Semiconductor Physics
