@@ -93,10 +93,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intermediate Microeconomics
-          links:
-          - name: 
-            url:'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
+        - title_url: https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001
+          Intermediate Microeconomics
           company: University of Glasgow
           company_url: ''
           #company_logo: org-gc
