@@ -94,7 +94,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Intermediate Microeconomics
-          url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
+            url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
           company: University of Glasgow
           company_url: ''
           #company_logo: org-gc
