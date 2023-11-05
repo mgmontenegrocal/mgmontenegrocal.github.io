@@ -100,8 +100,7 @@ sections:
           #location: California
           date_start: '2022-09-01'
           date_end: 'Present'
-          description: |2-
-            *Graduate Teaching Assistant for
+          description: Graduate Teaching Assistant for
               
         - title: Professor of Semiconductor Physics
           company: University X
