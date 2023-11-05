@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic Analysis"
+title: "The Effects of Diagnostic Expectations in a Small Open Economy"
 authors:
 - Marcos Gaspar Montenegro Calvimonte
 date: "2023-01-07T00:00:00Z"
