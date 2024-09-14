@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Glasgow
-      year: expected 2024
+      year: expected Summer 2025
     - course: MRes in Economics 
       institution: University of Glasgow
       year: 2020
