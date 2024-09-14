@@ -25,7 +25,8 @@ organizations:
     url: https://www.gla.ac.uk/
 
 
-bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. Currently, I am doing an internship at the Monetary Policy Division at the Deutsche Bundesbank.
+bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. I was... 
+% Currently, I am doing an internship at the Monetary Policy Division at the Deutsche Bundesbank.
 
 # Interests to show in About widget
 interests:
