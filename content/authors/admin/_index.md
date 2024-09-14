@@ -33,6 +33,7 @@ interests:
   - DSGE modelling
   - Expectation formation
 # Education to show in About widget
+
 education:
   courses:
     - course: PhD in Economics
