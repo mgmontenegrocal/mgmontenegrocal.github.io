@@ -12,7 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-10-01T00:00:00Z'
+date: '2024-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,11 @@ abstract: Quantities and prices in the US housing market exhibit a puzzling exce
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [
+- Diagnostic Expectations
+- Volatility
+- House prices
+]
 
 # Display this page in the Featured widget?
 featured: true
