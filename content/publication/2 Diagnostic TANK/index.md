@@ -8,7 +8,7 @@ authors:
 - Marcos Gaspar Montenegro Calvimonte
 
 # Author notes (optional)
-author_notes: Marcos Gaspar Montenegro Calvimonte
+#author_notes: Marcos Gaspar Montenegro Calvimonte
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
