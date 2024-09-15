@@ -27,7 +27,7 @@ tags:
 - Open Economy Model
 - Exchange Rate
 
-featured: false
+featured: true
 
 #links:
 #- name: 
