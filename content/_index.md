@@ -77,6 +77,7 @@ sections:
       # Choose a layout view
       view: list
       columns: '2'
+  
   - block: collection
     id: publication2
     content: 
