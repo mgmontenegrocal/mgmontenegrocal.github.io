@@ -89,7 +89,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - Publications2
+          - publication2
         author: ""
         category: ""
         tag: ""
