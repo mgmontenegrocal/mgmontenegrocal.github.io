@@ -65,7 +65,7 @@ sections:
         author: "Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
-        exclude_featured: true
+        exclude_featured: false
         exclude_future: false
         exclude_past: false
         publication_type: ""
