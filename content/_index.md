@@ -75,7 +75,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: citation
+      view: compact
       columns: '2'
 
   - block: collection
