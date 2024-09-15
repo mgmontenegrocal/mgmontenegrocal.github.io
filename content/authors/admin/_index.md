@@ -120,5 +120,4 @@ highlight_name: true
 Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 ---
 ​​I am an Economics Ph.D. candidate at the University of Glasgow. I have recently spent time at the Deutsche Bundesbank as a Ph.D. trainee at the Monetary Policy Division.​
-I am an Economics Ph.D. candidate at the University of Glasgow. Currently, I am doing an internship at the Monetary Policy Division at the Deutsche Bundesbank.
 ---
