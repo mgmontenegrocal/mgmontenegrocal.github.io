@@ -1,5 +1,5 @@
 ---
-title: A Diagnostic TANK Model for the Housing Market
+title: 'A Diagnostic TANK Model for the Housing Market'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
