@@ -5,8 +5,7 @@ title: 'A Diagnostic TANK Model for the Housing Market'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  -`admin` user
-  # Marcos Gaspar Montenegro Calvimonte
+  - Marcos Gaspar Montenegro Calvimonte
 
 # Author notes (optional)
 #author_notes:
@@ -14,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2024-09-01T00:00:00Z'
-doi: ''
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
