@@ -79,7 +79,7 @@ sections:
       columns: '2'
   
   - block: collection
-    id: publication2
+    id: Publications2
     content: 
       title: Working in progress
       subtitle: ''
@@ -89,7 +89,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publication2
+          - Publications2
         author: ""
         category: ""
         tag: ""
