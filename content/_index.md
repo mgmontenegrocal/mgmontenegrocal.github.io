@@ -89,7 +89,7 @@ sections:
       filters:
         folders:
           - publication2
-        author: ""
+        author: 
         category: ""
         tag: ""
         exclude_featured: false
@@ -104,7 +104,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-      
+
   - block: experience
     id: Teach
     content:
