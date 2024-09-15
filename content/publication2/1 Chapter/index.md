@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-date: '2024-10-01T00:00:00Z'
+date: 2024-10-01T00:00:00Z
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -86,4 +86,3 @@ featured: true
 #Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
 
 ---
-
