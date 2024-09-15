@@ -77,7 +77,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+  - block: single
     id: publication2
     content: 
       title: Working in progress
