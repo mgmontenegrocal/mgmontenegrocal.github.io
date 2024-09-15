@@ -26,7 +26,7 @@ date: 2024-10-01T00:00:00Z
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: 
+abstract: " "
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ tags:
 - Forecast error
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
