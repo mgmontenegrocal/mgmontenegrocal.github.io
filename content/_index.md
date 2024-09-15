@@ -89,7 +89,7 @@ sections:
       filters:
         folders:
           - publication2
-        author: ""
+        author: "admin"
         category: ""
         tag: ""
         exclude_featured: false
