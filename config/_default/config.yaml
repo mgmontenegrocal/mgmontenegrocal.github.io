@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Marcos Gaspar Montenegro Calvimonte # Website name
-baseURL: '' # Website URL
+baseURL: 'https://mgmontenegrocal.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
