@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        author: ""
+        author: 
         category: ""
         tag: ""
         exclude_featured: false
