@@ -115,7 +115,7 @@ social:
   #  link: uploads/CV_MGMC.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 ---
