@@ -90,7 +90,7 @@ sections:
       filters:
         folders:
           - publication2
-        author: ""
+        author:
         category: ""
         tag: ""
         exclude_featured: false
