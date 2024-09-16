@@ -104,6 +104,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  
   - block: experience
     id: Teach
     content:
