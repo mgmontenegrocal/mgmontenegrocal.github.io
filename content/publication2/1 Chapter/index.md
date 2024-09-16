@@ -1,5 +1,5 @@
 ---
-title: "Forecast Errors and Revisions under Diagnostic Expectations"
+title: 'Forecast Errors and Revisions under Diagnostic Expectations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,8 +11,10 @@ authors:
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-date: "2024-09-01T00:00:00Z"
+date: '2024-09-01T00:00:00Z'
 #doi: ''
+
+abstract: An optional shortened abstract.
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -25,8 +27,6 @@ show_abstract: true
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
-
-abstract: "An optional shortened abstract."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
