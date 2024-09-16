@@ -62,8 +62,8 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publications
-        #featured_only: false
+          - WorkingPapers
+        featured_only: true
         author: 
         category: ""
         tag: ""
