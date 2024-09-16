@@ -1,5 +1,5 @@
 ---
-title: 'Forecast Errors and Revisions under Diagnostic Expectations'
+title: "Forecast Errors and Revisions under Diagnostic Expectations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -20,8 +20,8 @@ date: "2024-09-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Article']
-
+publication_types: "Working Paper"
+show_abstract: true
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
@@ -36,7 +36,7 @@ tags:
 - Forecast error
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
