@@ -78,7 +78,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: publication2
+    id: WorkinProgress
     content: 
       title: Working in progress
       subtitle: ''
@@ -88,7 +88,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publication2
+          - WorkinProgress
         author:
         category: ""
         tag: ""
