@@ -76,7 +76,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: list
       columns: '2'
   - block: collection
     id: WorkinProgress
