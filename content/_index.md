@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - WorkingPapers
-        author: 
+        author: admin
         category: ""
         tag: ""
         exclude_featured: false
