@@ -85,7 +85,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 1
       # Filter on criteria
       filters:
         folders:
@@ -103,7 +103,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
 
 
