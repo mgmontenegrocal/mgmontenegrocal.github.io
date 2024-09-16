@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publication
+          - workingpapers
         author: "Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
@@ -90,7 +90,7 @@ sections:
       filters:
         folders:
           - workinprogress
-        author: ""
+        author: "Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
         exclude_featured: false
