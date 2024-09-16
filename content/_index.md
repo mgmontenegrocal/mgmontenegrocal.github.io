@@ -58,6 +58,7 @@ sections:
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
+      headless: true
       # Filter on criteria
       filters:
         folders:
