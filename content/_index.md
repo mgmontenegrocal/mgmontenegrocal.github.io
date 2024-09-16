@@ -103,7 +103,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: list
       columns: '2'
   - block: experience
     id: Teach
