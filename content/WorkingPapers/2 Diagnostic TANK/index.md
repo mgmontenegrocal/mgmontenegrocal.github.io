@@ -5,7 +5,7 @@ abstract: Quantities and prices in the US housing market exhibit a puzzling exce
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Marcos Gaspar Montenegro Calvimonte
+- admin #Marcos Gaspar Montenegro Calvimonte
 
 # Author notes (optional)
 #author_notes: Marcos Gaspar Montenegro Calvimonte
