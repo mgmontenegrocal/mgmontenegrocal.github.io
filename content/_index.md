@@ -51,7 +51,7 @@ sections:
     #design:
     #  columns: '1'
   - block: collection
-    id: publication
+    id: WorkingPapers
     content: 
       title: Working papers
       subtitle: ''
@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publication
+          - WorkingPapers
         author: 
         category: ""
         tag: ""
