@@ -20,7 +20,7 @@ authors:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-abstract: An optional shortened abstract.
+abstract: Coming soon.
 #publication_types: "Working Paper"
 #show_abstract: true
 # Publication name and optional abbreviated publication name.
