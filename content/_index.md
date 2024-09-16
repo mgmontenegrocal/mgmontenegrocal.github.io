@@ -51,20 +51,18 @@ sections:
     #design:
     #  columns: '1'
   - block: collection
-    id: Publication
+    id: publication
     content: 
       title: Working papers
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      headless: true
+      count: 1
       # Filter on criteria
       filters:
         folders:
-          - WorkingPapers
-        featured_only: true
-        author: 
+          - publication
+        author: "Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
         exclude_featured: false
@@ -77,21 +75,21 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
+
   - block: collection
-    id: WorkinProgress
+    id: publication2
     content: 
-      title: Work in progress
+      title: Working in progress
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 0
       # Filter on criteria
       filters:
         folders:
-          - WorkinProgress
-        featured_only: 
+          - publication2
         author: ""
         category: ""
         tag: ""
@@ -105,8 +103,11 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
+
+
+
   - block: experience
     id: Teach
     content:
@@ -132,14 +133,14 @@ sections:
           date_end: ''
           description: Graduate Teaching Assistant for
               
-        - title: Macroeconomic Analysis
-          company: University of Glasgow
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
-          company_logo:
-          location: 
+          company_logo: org-x
+          location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Graduate Teaching Assistant for
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
 
@@ -306,5 +307,4 @@ sections:
           #captcha: false
     #design:
       #columns: '2'
-      
 ---
