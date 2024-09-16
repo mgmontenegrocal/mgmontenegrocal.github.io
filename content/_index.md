@@ -79,7 +79,7 @@ sections:
       columns: '2'
 
   - block: collection
-    id: publication2
+    id: workinprogress
     content: 
       title: Working in progress
       subtitle: ''
