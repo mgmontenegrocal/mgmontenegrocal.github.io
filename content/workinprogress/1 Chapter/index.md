@@ -14,8 +14,6 @@ authors:
 date: '2024-09-01T00:00:00Z'
 #doi: ''
 
-abstract: An optional shortened abstract.
-
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
 
@@ -30,7 +28,7 @@ show_abstract: true
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: An optional shortened abstract.
 tags:
 - Diagnostic Expectations
 - Forecast error
