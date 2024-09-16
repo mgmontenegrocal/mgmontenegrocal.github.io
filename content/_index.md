@@ -85,12 +85,12 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 0
       # Filter on criteria
       filters:
         folders:
           - publication2
-        author: "Marcos Gaspar Montenegro Calvimonte"
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
