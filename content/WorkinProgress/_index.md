@@ -7,7 +7,7 @@ cms_exclude: false
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: compact
+view: List
 
 
 # Optional header image (relative to `static/media/` folder).
