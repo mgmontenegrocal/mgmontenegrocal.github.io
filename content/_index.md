@@ -51,13 +51,13 @@ sections:
     #design:
     #  columns: '1'
   - block: collection
-    id: publication #WorkingPapers
+    id: WorkingPapers
     content: 
       title: Working papers
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 0
       # Filter on criteria
       filters:
         folders:
