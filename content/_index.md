@@ -51,7 +51,7 @@ sections:
     #design:
     #  columns: '1'
   - block: collection
-    id: WorkingPapers
+    id: Publication
     content: 
       title: Working papers
       subtitle: ''
@@ -78,7 +78,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: WorkinProgress
+    id: Publication
     content: 
       title: Working in progress
       subtitle: ''
