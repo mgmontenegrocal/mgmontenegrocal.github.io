@@ -91,7 +91,7 @@ sections:
         folders:
           - workinprogress
         featured_only: 
-        author:
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
