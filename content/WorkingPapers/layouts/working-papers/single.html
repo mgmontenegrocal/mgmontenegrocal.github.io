@@ -1,0 +1,18 @@
+<article>
+    <h1>{{ .Title }}</h1>
+    <p>By {{ .Params.author }}</p>
+    <p>{{ .Date.Format "January 2, 2006" }}</p>
+    <div class="tags">{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div>
+    
+    <!-- Add the abstract here -->
+    <div class="abstract">
+      <h2>Abstract</h2>
+      <p>{{ .Params.abstract }}</p>
+    </div>
+  
+    <!-- Content of the paper -->
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+    
