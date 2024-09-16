@@ -57,7 +57,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 1
       # Filter on criteria
       filters:
         folders:
@@ -75,11 +75,11 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
 
   - block: collection
-    id: workinprogress
+    id: publication2
     content: 
       title: Working in progress
       subtitle: ''
@@ -89,8 +89,8 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - workinprogress
-        author: "Marcos Gaspar Montenegro Calvimonte"
+          - publication2
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
@@ -103,7 +103,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       columns: '2'
 
 
