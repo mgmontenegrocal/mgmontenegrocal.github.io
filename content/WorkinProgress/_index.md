@@ -1,6 +1,6 @@
 ---
-title: WorkinProgress #Publications2
-cms_exclude: false
+title: Publications
+cms_exclude: true
 
 # View.
 #   1 = List
