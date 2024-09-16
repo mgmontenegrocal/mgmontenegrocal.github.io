@@ -1,5 +1,5 @@
 ---
-title: Forecast Errors and Revisions under Diagnostic Expectations
+title: 'Forecast Errors and Revisions under Diagnostic Expectations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
