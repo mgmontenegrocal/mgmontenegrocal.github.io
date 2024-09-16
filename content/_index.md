@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - workingpapers
+          - WorkingPapers
         featured_only: false
         author: 
         category: ""
@@ -89,7 +89,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - workinprogress
+          - WorkinProgress
         featured_only: 
         author: ""
         category: ""
