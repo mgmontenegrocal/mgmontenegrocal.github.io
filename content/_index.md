@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - WorkingPapers
+          - workingpapers
         featured_only: false
         author: ""
         category: ""
