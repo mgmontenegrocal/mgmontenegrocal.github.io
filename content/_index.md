@@ -82,7 +82,6 @@ sections:
   - block: collection
     id: WorkinProgress
     content: 
-      page_type : publication
       title: Work in progress
       subtitle: ''
       text: ''
