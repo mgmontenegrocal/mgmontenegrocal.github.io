@@ -1,7 +1,7 @@
 ---
 title: "A Diagnostic TANK Model for the Housing Market"
 
-author:
+authors:
 - Marcos Gaspar Montenegro Calvimonte
 
 date: "2024-09-01T00:00:00Z"
