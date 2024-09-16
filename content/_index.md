@@ -129,7 +129,7 @@ sections:
           date_end: ''
           description: Graduate Teaching Assistant for
               
-        - title: Professor of Semiconductor Physics
+        - title: Macroeconomic Analysis
           company: University X
           company_url: ''
           company_logo: org-x
