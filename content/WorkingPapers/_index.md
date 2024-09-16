@@ -1,6 +1,6 @@
 ---
 title: Publications
-#cms_exclude: false
+cms_exclude: false
 #show_abstract: true
 # View.
 #view: List
