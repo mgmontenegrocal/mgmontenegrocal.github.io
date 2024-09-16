@@ -90,7 +90,7 @@ sections:
       filters:
         folders:
           - WorkinProgress
-        featured_only: false
+        featured_only: true
         author:
         category: ""
         tag: ""
