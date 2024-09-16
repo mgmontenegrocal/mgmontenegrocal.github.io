@@ -89,7 +89,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - publication2
+          - workinprogress
         author: ""
         category: ""
         tag: ""
