@@ -26,7 +26,7 @@ publication_types: ['Article']
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-#abstract:
+abstract: An optional shortened abstract.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
