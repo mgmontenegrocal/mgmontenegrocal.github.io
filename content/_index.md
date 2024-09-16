@@ -89,8 +89,8 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - WorkinProgress
-        featured_only: true
+          - workinprogress
+        featured_only: 
         author:
         category: ""
         tag: ""
