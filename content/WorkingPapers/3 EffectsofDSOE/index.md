@@ -72,4 +72,3 @@ featured: true
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
