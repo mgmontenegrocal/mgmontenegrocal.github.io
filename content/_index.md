@@ -51,7 +51,7 @@ sections:
     #design:
     #  columns: '1'
   - block: collection
-    id: Publication
+    id: Workingpapers
     content: 
       title: Working papers
       subtitle: ''
