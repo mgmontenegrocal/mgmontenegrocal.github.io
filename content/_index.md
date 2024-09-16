@@ -133,11 +133,11 @@ sections:
         - title: Macroeconomic Analysis
           company: University of Glasgow
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo:
+          location: 
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Graduate Teaching Assistant for
     design:
       columns: '2'
 
