@@ -81,7 +81,7 @@ sections:
   - block: collection
     id: publication2
     content: 
-      title: Working in progress
+      title: Worki in progress
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
