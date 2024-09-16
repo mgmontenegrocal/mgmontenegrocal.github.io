@@ -78,7 +78,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: Publication
+    id: WorkinProgress
     content: 
       title: Working in progress
       subtitle: ''
