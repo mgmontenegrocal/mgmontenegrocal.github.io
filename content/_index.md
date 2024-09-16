@@ -130,7 +130,7 @@ sections:
           description: Graduate Teaching Assistant for
               
         - title: Macroeconomic Analysis
-          company: University X
+          company: University of Glasgow
           company_url: ''
           company_logo: org-x
           location: California
