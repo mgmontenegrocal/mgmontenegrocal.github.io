@@ -8,6 +8,7 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 view: 2
+show_abstract: true
 
 # Optional header image (relative to `static/media/` folder).
 #banner:
