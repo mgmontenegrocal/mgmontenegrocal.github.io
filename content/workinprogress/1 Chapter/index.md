@@ -20,15 +20,16 @@ date: '2024-09-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: "Working Paper"
-show_abstract: true
+abstract: An optional shortened abstract.
+#publication_types: "Working Paper"
+#show_abstract: true
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-abstract: An optional shortened abstract.
+
 tags:
 - Diagnostic Expectations
 - Forecast error
