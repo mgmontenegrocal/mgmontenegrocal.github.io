@@ -1,5 +1,5 @@
 ---
-title: "A Diagnostic TANK Model for the Housing Market"
+title: 'A Diagnostic TANK Model for the Housing Market'
 
 authors:
 - Marcos Gaspar Montenegro Calvimonte
