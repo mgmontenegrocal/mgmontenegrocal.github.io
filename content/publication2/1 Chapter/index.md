@@ -5,13 +5,13 @@ title: 'Forecast Errors and Revisions under Diagnostic Expectations'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Marcos Gaspar Montenegro Calvimonte
+- admin #Marcos Gaspar Montenegro Calvimonte
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-#date: '2024-09-01T00:00:00Z'
+date: '2024-09-01T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
