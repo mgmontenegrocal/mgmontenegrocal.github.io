@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        author: "Marcos Gaspar Montenegro Calvimonte"
+        author: #"Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
         exclude_featured: false
@@ -90,7 +90,7 @@ sections:
       filters:
         folders:
           - publication2
-        author: "Marcos Gaspar Montenegro Calvimonte"
+        author: #"Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
         exclude_featured: false
