@@ -79,7 +79,7 @@ sections:
       columns: '2'
 
   - block: collection
-    id: publication2
+    id: publication
     content: 
       title: Work in progress
       subtitle: ''
@@ -90,7 +90,7 @@ sections:
       filters:
         folders:
           - publication2
-        author: ""#"Marcos Gaspar Montenegro Calvimonte"
+        author: "" #"Marcos Gaspar Montenegro Calvimonte"
         category: ""
         tag: ""
         exclude_featured: false
