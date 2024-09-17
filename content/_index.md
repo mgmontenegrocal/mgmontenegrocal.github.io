@@ -123,15 +123,15 @@ sections:
       items:
         - title: Intermediate Microeconomics 
           company: University of Glasgow
-          cta: (Undergraduate level)
+          cta: 
           label: '**Get Started**'
-          url: https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001
+          url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001'
           company_url: ''
           #company_logo: org-gc
-          location: 
+          location: (Undergraduate level)
           date_start: '2022-09-01'
           date_end: ''
-          description: Graduate Teaching Assistant for 
+          description: Graduate Teaching Assistant for Dr. Vladimir Maltsev
               
         - title: Behavioural Economics, Theory and Applications 
           company: University of Glasgow
