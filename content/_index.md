@@ -133,7 +133,7 @@ sections:
           date_end: ''
           description: Graduate Teaching Assistant for
               
-        - title: Behavioural Economics: Theory and Applications
+        - title: Behavioural Economics, Theory and Applications
           company: University of Glasgow
           company_url: ''
           company_logo:
