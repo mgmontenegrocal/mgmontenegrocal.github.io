@@ -121,7 +121,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intermediate Microeconomics
+        - title: Intermediate Microeconomics (Undergraduate level)
           company: University of Glasgow
           cta:
           label: '**Get Started**'
@@ -131,25 +131,25 @@ sections:
           #location: California
           date_start: '2022-09-01'
           date_end: ''
-          description: Graduate Teaching Assistant for
+          description: Graduate Teaching Assistant for 
               
-        - title: Behavioural Economics, Theory and Applications
+        - title: Behavioural Economics, Theory and Applications (Master level)
           company: University of Glasgow
           company_url: ''
           company_logo:
           location: 
           date_start: '2022-01-01'
           date_end: '2024-01-01'
-          description: Graduate Teaching Assistant for
+          description: Graduate Teaching Assistant for Dr. Theodore Koutmeridis
 
-        - title: Macroeconomic Analysis
+        - title: Macroeconomic Analysis (Honours level)
           company: University of Glasgow
           company_url: ''
           company_logo:
           location: 
           date_start: '2020-01-01'
           date_end: '2024-01-01'
-          description: Graduate Teaching Assistant for
+          description: Graduate Teaching Assistant for Professor Richard Dennis
     design:
       columns: '2'
 
