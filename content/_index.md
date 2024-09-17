@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        author: "Marcos Gaspar Montenegro Calvimonte"
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
