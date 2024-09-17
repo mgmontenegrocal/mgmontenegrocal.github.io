@@ -82,6 +82,7 @@ sections:
     id: publication2
     content: 
       title: Work in progress
+      date_format: Jan 2006
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
