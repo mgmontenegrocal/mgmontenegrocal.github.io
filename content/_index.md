@@ -133,14 +133,23 @@ sections:
           date_end: ''
           description: Graduate Teaching Assistant for
               
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Behavioural Economics: Theory and Applications
+          company: University of Glasgow
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo:
+          location: 
+          date_start: '2022-01-01'
+          date_end: '2024-01-01'
+          description: Graduate Teaching Assistant for
+
+        - title: Macroeconomic Analysis
+          company: University of Glasgow
+          company_url: ''
+          company_logo:
+          location: 
+          date_start: '2020-01-01'
+          date_end: '2024-01-01'
+          description: Graduate Teaching Assistant for
     design:
       columns: '2'
 
