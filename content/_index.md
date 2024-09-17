@@ -123,12 +123,12 @@ sections:
       items:
         - title: Intermediate Microeconomics 
           company: University of Glasgow
-          cta:
+          cta: (Undergraduate level)
           label: '**Get Started**'
           url: https://www.gla.ac.uk/coursecatalogue/course/?code=ECON2001
           company_url: ''
           #company_logo: org-gc
-          location: (Undergraduate level)
+          location: 
           date_start: '2022-09-01'
           date_end: ''
           description: Graduate Teaching Assistant for 
