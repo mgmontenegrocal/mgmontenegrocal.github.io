@@ -108,7 +108,7 @@ sections:
       columns: '2'
 
 
-  - block: collection
+  - block: accomplishments
     id: Teach
     content:
       title: Teaching
