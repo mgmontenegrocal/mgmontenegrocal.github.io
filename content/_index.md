@@ -278,15 +278,15 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
+  #- block: contact
+  #  id: contact
+  #  content:
+  #    title: Contact
       #subtitle:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur a dipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: m.montenegro-calvimonte.1@research.gla.ac.uk
+  #    email: m.montenegro-calvimonte.1@research.gla.ac.uk
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
@@ -300,11 +300,11 @@ sections:
       #office_hours:
        # - 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: linkedin
-          icon_pack: fab
+  #    contact_links:
+  #      - icon: linkedin
+  #        icon_pack: fab
           #name: DM Me
-          link: 'https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/'
+  #        link: 'https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/'
         #- icon: skype
           #icon_pack: fab
           #name: Skype Me
