@@ -135,7 +135,7 @@ sections:
               
         - title: Behavioural Economics, Theory and Applications 
           company: University of Glasgow
-          company_url: ''
+          company_url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON5073'
           company_logo:
           location: (Master level)
           date_start: '2022-01-01'
@@ -144,7 +144,7 @@ sections:
 
         - title: Macroeconomic Analysis 
           company: University of Glasgow
-          company_url: ''
+          company_url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON4019'
           company_logo:
           location: (Honours level)
           date_start: '2020-01-01'
@@ -153,7 +153,7 @@ sections:
 
         - title: Basic Econometrics 
           company: University of Glasgow
-          company_url: ''
+          company_url: 'https://www.gla.ac.uk/coursecatalogue/course/?code=ECON5002'
           company_logo:
           location: (Postgraduate level)
           date_start: '2019-09-01'
