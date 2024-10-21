@@ -43,7 +43,7 @@ education:
     - course: MRes in Economics 
       institution: University of Glasgow
       year: 2020
-    - course: Overseas Exchange Student
+    - course: Visiting Student
       institution: University of Bologna
       year: 2016-2017  
     - course: BSc in Economics
