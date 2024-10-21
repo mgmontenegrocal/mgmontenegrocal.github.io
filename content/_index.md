@@ -301,10 +301,10 @@ sections:
        # - 'Monday 10:00 to 13:00'
         #- 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          #name: DM Me
+          link: 'https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/'
         #- icon: skype
           #icon_pack: fab
           #name: Skype Me
