@@ -106,7 +106,8 @@ social:
     #  header: true
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/'
+    link: Marcos Gaspar Montenegro Calvimonte
+    url: 'https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
