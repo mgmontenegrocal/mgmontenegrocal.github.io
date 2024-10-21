@@ -108,7 +108,7 @@ sections:
       columns: '2'
 
 
-  - block: experience
+  - block: collection
     id: Teach
     content:
       title: Teaching
