@@ -98,12 +98,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.montenegro-calvimonte.1@research.gla.ac.uk'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-    label: Follow me on Twitter
-    display:
-      header: true
+  - #icon: twitter
+    #icon_pack: fab
+    #link: 
+    #label: Follow me on Twitter
+    #display:
+    #  header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marcos-gaspar-montenegro-calvimonte-647a1873/
