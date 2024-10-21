@@ -108,7 +108,6 @@ sections:
       columns: '2'
 
 
-
   - block: experience
     id: Teach
     content:
@@ -151,6 +150,15 @@ sections:
           date_start: '2020-01-01'
           date_end: '2024-01-01'
           description: Graduate Teaching Assistant for Professor Richard Dennis
+
+        - title: Basic Econometrics 
+          company: University of Glasgow
+          company_url: ''
+          company_logo:
+          location: (Postgraduate level)
+          date_start: '2019-01-01'
+          date_end: '2020-01-01'
+          description: Graduate Teaching Assistant for Dr. Marco Avarucci
     design:
       columns: '2'
 
