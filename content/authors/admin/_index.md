@@ -98,7 +98,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:m.montenegro-calvimonte.1@research.gla.ac.uk'
-  - #icon: twitter
+    #- #icon: twitter
     #icon_pack: fab
     #link: 
     #label: Follow me on Twitter
