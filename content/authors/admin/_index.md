@@ -24,6 +24,7 @@ organizations:
   - name: University of Glasgow
     url: https://www.gla.ac.uk/
 
+
 bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. I have recently spent time at the Deutsche Bundesbank as a Ph.D. trainee at the Monetary Policy Division.
 
 
