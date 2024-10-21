@@ -156,8 +156,8 @@ sections:
           company_url: ''
           company_logo:
           location: (Postgraduate level)
-          date_start: '2019-01-01'
-          date_end: '2020-01-01'
+          date_start: '2019-09-01'
+          date_end: '2020-09-01'
           description: Graduate Teaching Assistant for Dr. Marco Avarucci
     design:
       columns: '2'
