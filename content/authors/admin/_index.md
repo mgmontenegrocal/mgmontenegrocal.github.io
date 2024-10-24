@@ -26,6 +26,7 @@ organizations:
 
 
 bio: ​​I am an Economics Ph.D. candidate at the University of Glasgow. I have recently spent time at the Deutsche Bundesbank as a Ph.D. trainee at the Monetary Policy Division.
+     I will be on the job market in 2024/2025
 
 
 # Interests to show in About widget
