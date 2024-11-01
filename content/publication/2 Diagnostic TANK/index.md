@@ -24,7 +24,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- #- name: Pdf
+ - name: Pdf
   # url: uploads/JMP_MGMC_2024.pdf
 
 #url_pdf: ''
