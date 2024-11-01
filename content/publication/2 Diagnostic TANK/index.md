@@ -27,7 +27,7 @@ featured: true
  - name: Pdf
   # url: uploads/JMP_MGMC_2024.pdf
 
-#url_pdf: ''
+url_pdf: 'https://x.com/home'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
