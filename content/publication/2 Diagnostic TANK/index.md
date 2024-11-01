@@ -23,8 +23,8 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Pdf
+ #links:
+ #- name: Pdf
   # url: uploads/JMP_MGMC_2024.pdf
 
 url_pdf: 'https://x.com/home'
