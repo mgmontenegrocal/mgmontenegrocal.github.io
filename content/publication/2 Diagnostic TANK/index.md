@@ -25,7 +25,7 @@ featured: true
 # Custom links (uncomment lines below)
  #links:
  #- name: Pdf
-  # url: uploads/JMP_MGMC_2024.pdf
+url: uploads/JMP_MGMC_2024.pdf
 
 url_pdf: 'uploads/JMP_MGMC_2024.pdf'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
