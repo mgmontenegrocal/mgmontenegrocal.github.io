@@ -130,4 +130,5 @@ Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 I recently completed an internship in the Monetary Policy Strategy Section at the Bundesbank, where I contributed to the team's analytical and policy work by extending a DSGE model  with open-economy components to analyse questions about monetary policy.
 
 I will be on the job market in 2024/2025.
+
 ---
