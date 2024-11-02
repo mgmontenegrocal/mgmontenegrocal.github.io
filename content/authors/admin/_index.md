@@ -127,7 +127,7 @@ Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 ---
 ​I am Ph.D. candidate in Economics at the University of Glasgow. 
 
-I recently completed an internship at the Deutsche Bundesbank in the Monetary Policy Strategy Section., where I contributed to the teams's analytical and policy work by enhancing the DSGE model used to answer questions about monetary policy, integrating components of an open economy.
+I recently completed an internship at the Deutsche Bundesbank in the Monetary Policy Strategy Section, where I contributed to the teams's analytical and policy work by enhancing the DSGE model used to answer questions about monetary policy, integrating components of an open economy.
 
 I will be on the job market in 2024/2025, seeking roles in a dynamic environment where I can make a positive impact on meaningful projects.
 
