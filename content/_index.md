@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Welcome to my personal website!
+      title: Welcome to my webpage!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     #- block: skills
