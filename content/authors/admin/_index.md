@@ -18,7 +18,6 @@ superuser: true
 
 # Role/position/tagline
 role: Economist
-#Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
