@@ -1,5 +1,7 @@
 ---
-title: 'Predictable Forecast Errors and Revisions from non-Rational Agents'
+title: 'Forecasting Under Distorted Beliefs: The Impact of Diagnostic Expectations'
+#'Predictable Forecast Errors and Revisions from non-Rational Agents'
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
