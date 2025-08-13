@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,11 +25,12 @@ organizations:
     url: https://www.gla.ac.uk/
 
 
-bio: ​I am a Ph.D. candidate in Economics at the University of Glasgow. 
+bio: ​I am an Economists... 
 
-     I recently completed an internship at the Deutsche Bundesbank in the Monetary Policy Strategy Section, where I contributed to the teams's analytical and policy work by enhancing a DSGE model used to answer questions about monetary policy, integrating components of an open economy.
+     I recently completed my Ph.D. in Economics at the University of Glasgow and previously I was an intern at the Deutsche Bundesbank in the Monetary Policy Strategy Section.
+     #, where I contributed to the teams's analytical and policy work by enhancing a DSGE model used to answer questions about monetary policy, integrating components of an open economy.
 
-     I will be on the job market in 2024/2025, seeking roles in a dynamic environment where I can make a positive impact on meaningful projects.
+     #I will be on the job market in 2024/2025, seeking roles in a dynamic environment where I can make a positive impact on meaningful projects.
 
 
 # Interests to show in About widget
@@ -44,7 +45,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Glasgow
-      year: expected Summer 2025
+      year: 2025
     - course: MRes in Economics 
       institution: University of Glasgow
       year: 2020
