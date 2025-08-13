@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Economics
+role: Economist
+#Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -134,5 +135,5 @@ Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 
 ​I am an Economist... 
      I recently completed my Ph.D. in Economics at the University of Glasgow and previously I was an intern at the Deutsche Bundesbank in the Monetary Policy Strategy Section.​
-     
+
 ---
