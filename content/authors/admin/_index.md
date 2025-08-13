@@ -25,8 +25,7 @@ organizations:
     url: https://www.gla.ac.uk/
 
 
-bio: ​I am an Economists... 
-
+bio: ​I am an Economist... 
      I recently completed my Ph.D. in Economics at the University of Glasgow and previously I was an intern at the Deutsche Bundesbank in the Monetary Policy Strategy Section.
      #, where I contributed to the teams's analytical and policy work by enhancing a DSGE model used to answer questions about monetary policy, integrating components of an open economy.
 
