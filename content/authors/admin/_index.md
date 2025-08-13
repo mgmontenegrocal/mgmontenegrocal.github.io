@@ -121,6 +121,12 @@ social:
   #  link: uploads/CV_MGMC.pdf
 
 # Highlight the author in author lists? (true/false)
+
+#I am a Ph.D. candidate in Economics at the University of Glasgow. 
+
+#I recently completed an internship in the Monetary Policy Strategy Section at the Bundesbank, where I contributed to the team's analytical and policy work by extending a DSGE model  with open-economy components to analyse questions about monetary policy.
+
+#I will be on the job market in 2024/2025.
 highlight_name: true
 
 Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
@@ -128,8 +134,3 @@ Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
 ​I am an Economist... 
      I recently completed my Ph.D. in Economics at the University of Glasgow and previously I was an intern at the Deutsche Bundesbank in the Monetary Policy Strategy Section.​
 ---
-I am a Ph.D. candidate in Economics at the University of Glasgow. 
-
-I recently completed an internship in the Monetary Policy Strategy Section at the Bundesbank, where I contributed to the team's analytical and policy work by extending a DSGE model  with open-economy components to analyse questions about monetary policy.
-
-I will be on the job market in 2024/2025.
