@@ -134,4 +134,6 @@ Contact: Gaspar.MontenegroCalvimonte@bankofengland.co.uk
 
 ​I am an Economist at the Bank of England, working in the Monetary Policy Strategy Divison. I recently completed my Ph.D. in Economics at the University of Glasgow.
 
+Note: All views expressed on this site are my own and do not necessarily reflect those of the Bank of England.
+
 ---
