@@ -13,7 +13,7 @@ authors:
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-abstract: Coming soon.
+abstract: In this paper, I explore the impact of diagnostic expectations (DE) on the state-space structure of linear macroeconomic models and the resulting forecast errors (FE) and forecast revisions (FR) across different horizons. I derive testable expressions in terms of the model-parameters for a simple three-equation model, and then generalise it to the case of larger models. I find that DE introduce predictability in the form of moving average (MA) processes. To assess whether expectation formation differs across agents, I analyse survey data from the Philadelphia Fed’s Survey of Professional Forecasters alongside policymakers’ forecasts from the Greenbook/Tealbook. The empirical results indicate that one-period-ahead FE generally follow the MA structures implied by DE, though evidence of overreaction appears only for GDP growth forecasts and primarily when including the post-pandemic period. Mixed results are, however, observed in the case of FR. For longer forecast horizons, FE include autoregressive components deviating from DE, whereas FR align more closely with DE-driven expectations, suggesting stronger revisions in the direction of the shock realisation. Overall, the evidence does not seem to suggest a definitive pattern.
 date: '2024-09-01T00:00:00Z'
 #doi: ''
 
