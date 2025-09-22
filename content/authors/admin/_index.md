@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Economist
+role: Lead Economic Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Glasgow
-    url: https://www.gla.ac.uk/
+  - name: Bank of England
+    url: https://www.bankofengland.co.uk/
 
 
 bio: ​I am an Economist... 
