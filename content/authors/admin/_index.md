@@ -129,7 +129,7 @@ social:
 #I will be on the job market in 2024/2025.
 highlight_name: true
 
-Contact: m.montenegro-calvimonte.1@research.gla.ac.uk
+Contact: Gaspar.MontenegroCalvimonte@bankofengland.co.uk
 ---
 
 ​I am an Economist at the Bank of England, working in the Monetary Policy Strategy Divison. I recently completed my Ph.D. in Economics at the University of Glasgow.
