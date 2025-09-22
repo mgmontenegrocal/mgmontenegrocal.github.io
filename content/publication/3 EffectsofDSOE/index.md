@@ -33,7 +33,8 @@ abstract: In this paper, I explore the implications of incorporating representat
 tags:
 - Diagnostic Expectations
 - Open Economy Model
-- Exchange Rate
+- Exchange Rate Puzzles
+- Excess Volatility
 
 featured: true
 
