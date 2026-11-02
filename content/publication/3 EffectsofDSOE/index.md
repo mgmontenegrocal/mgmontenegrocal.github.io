@@ -1,5 +1,5 @@
 ---
-title: 'The Effects of Diagnostic Expectations in a Small Open Economy'
+title: 'The Effects of Diagnostic Expectations in Small Open Economies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,7 +25,9 @@ date: '2025-09-09T00:00:00Z'
 # Publication name and optional abbreviated publication name.
 #publication: 
 #publication_short:
-abstract: In this paper, I explore the implications of incorporating representativeness, in the form of diagnostic expectations, into a small open economy model à la Justiniano and Preston (2010b). The findings suggest diagnostic expectations mitigates the excess exchange rate volatility puzzle, the exchange rate disconnection puzzle, and the forward premium anomaly. In this regard, a small open economy populated with diagnostic agents is broadly more volatile than its rational counterpart. It generates volatility measures for nominal and real exchange rates close to those of developed and developing countries. Moreover, this framework also influences the point estimate of the slope coefficient in reduced-form UIP regressions. The magnitude of the diagnostic amplification mechanism that generates endogenous volatility and magnifies short-term dynamics depends directly on the degree of belief distortion, persistence mechanisms, and policy rules.
+abstract: 'This paper incorporates diagnostic expectations and memory into a small open economy New Keynesian model estimated on quarterly data for New Zealand and Chile. The estimation uses survey data on expected depreciation as an observable to discipline the diagnostic parameters. The data favor diagnostic expectations with memory, where the weights on past news are hump-shaped, over rational expectations in both countries. Diagnostic expectations amplify volatility asymmetrically, raising the volatility of exchange rates and expected depreciation, while domestic volatility is slightly changed. Diagnosticity is higher in Chile, where this deviation also accounts for the survey movements that rational expectations attribute to measurement error. Overreaction lowers the slope of the Fama regression, and the slopes implied by the estimated models are consistent with those observed in both countries. Finally, the estimated degree of diagnosticity is robust to a Taylor rule that responds to the agents’ expected depreciation.'
+summary: 'This paper incorporates diagnostic expectations and memory into a small open economy New Keynesian model estimated on quarterly data for New Zealand and Chile. The estimation uses survey data on expected depreciation as an observable to discipline the diagnostic parameters. The data favor diagnostic expectations with memory, where the weights on past news are hump-shaped, over rational expectations in both countries. Diagnostic expectations amplify volatility asymmetrically, raising the volatility of exchange rates and expected depreciation, while domestic volatility is slightly changed. Diagnosticity is higher in Chile, where this deviation also accounts for the survey movements that rational expectations attribute to measurement error…'
+show_abstract: true
 
 # Summary. An optional shortened abstract.
 #summary: 
@@ -41,7 +43,7 @@ featured: true
 #links:
 #- name: 
 #  url: 
-#url_pdf: 
+url_preprint: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6945071'
 #url_code: 
 #url_dataset: ''
 #url_poster: ''
