@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lead Economic Analyst
+role: Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.bankofengland.co.uk/
 
 
-bio: ​I am an Economist at the Bank of England, working in the Monetary Policy Strategy Divison. I recently completed my Ph.D. in Economics at the University of Glasgow.
+bio: I am an Economist at the Bank of England, working in the Monetary Policy Strategy Division. I hold a Ph.D. in Economics from the University of Glasgow.
      #I recently completed my Ph.D. in Economics at the University of Glasgow and previously I was an intern at the Deutsche Bundesbank in the Monetary Policy Strategy Section.
      #, where I contributed to the teams's analytical and policy work by enhancing a DSGE model used to answer questions about monetary policy, integrating components of an open economy.
 
@@ -132,7 +132,7 @@ highlight_name: true
 Contact: Gaspar.MontenegroCalvimonte@bankofengland.co.uk
 ---
 
-​I am an Economist at the Bank of England, working in the Monetary Policy Strategy Divison. I recently completed my Ph.D. in Economics at the University of Glasgow.
+I am an Economist at the Bank of England, working in the Monetary Policy Strategy Division. I hold a Ph.D. in Economics from the University of Glasgow.
 
 Note: All views expressed on this site are my own and do not necessarily reflect those of the Bank of England.
 
